@@ -6,12 +6,12 @@ Welcome to my central academic software repository. This space serves as an engi
 Each directory inside this repository represents a distinct project engineered to solve specific layout, architectural, or integration problems.
 
 ---
-Projects included:
-**[Academic Event Matrix](./academic-event-matrix)** - Advanced Vanilla JS SPA utilizing public Holiday APIs, responsive CSS container queries, and a custom History API router.
+## Projects included:
+**[Academic Event Matrix](./academic-events-matrix)** - Advanced Vanilla JS SPA utilizing public Holiday APIs, responsive CSS container queries, and a custom History API router.
 ## 🛠️ Project Directory Index
 
 ### 1. 📅 Academic Event Matrix (Vanilla JS SPA)
-* **Directory:** [`/academic-event-matrix`](./academic-event-matrix)
+* **Directory:** [`/academic-event-matrix`](./academic-events-matrix)
 * **Core Stack:** Vanilla JavaScript (ES6+ Modules), HTML5 Semantics, Native CSS (Grid/Subgrid)
 * **Architectural Highlights:**
   - Built completely framework-free to demonstrate raw DOM manipulation and memory management safety.
