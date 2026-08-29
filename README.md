@@ -7,11 +7,11 @@ Each directory inside this repository represents a distinct project engineered t
 
 ---
 ## Projects included:
-**[Academic Event Matrix](./school-events-matrix)** - Advanced Vanilla JS SPA utilizing public Holiday APIs, responsive CSS container queries, and a custom History API router.
+**[School Events Matrix](./school-events-matrix)** - Advanced Vanilla JS SPA utilizing public Holiday APIs, responsive CSS container queries, and a custom History API router.
 ## 🛠️ Project Directory Index
 
-### 1. 📅 Academic Event Matrix (Vanilla JS SPA)
-* **Directory:** [`/school-event-matrix`](./academic-events-matrix)
+### 1. 📅 School Event Matrix (Vanilla JS SPA)
+* **Directory:** [`/school-event-matrix`](./school-events-matrix)
 * **Core Stack:** Vanilla JavaScript (ES6+ Modules), HTML5 Semantics, Native CSS (Grid/Subgrid)
 * **Architectural Highlights:**
   - Built completely framework-free to demonstrate raw DOM manipulation and memory management safety.
