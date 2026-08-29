@@ -1,3 +1,4 @@
+
 # 🏛️ Public Academic Projects & Software Engineering Showcase
 
 Welcome to my central academic software repository. This space serves as an engineering log and production-grade portfolio, showcasing scalable software architectures, deep semantic layout designs, and responsive frontend systems built entirely with modern web standards.
@@ -5,7 +6,8 @@ Welcome to my central academic software repository. This space serves as an engi
 Each directory inside this repository represents a distinct project engineered to solve specific layout, architectural, or integration problems.
 
 ---
-
+Projects included:
+**[Academic Event Matrix](./academic-event-matrix)** - Advanced Vanilla JS SPA utilizing public Holiday APIs, responsive CSS container queries, and a custom History API router.
 ## 🛠️ Project Directory Index
 
 ### 1. 📅 Academic Event Matrix (Vanilla JS SPA)
